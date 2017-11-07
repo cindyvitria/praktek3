@@ -29,6 +29,6 @@ int main () {
 		else if (z < 0) {
 		z = z * (-1) ;
 		cout<<abs (x-y)<<endl;
-		cout<<"Hasil Positif";
+		cout<<"bukan Hasil Positif";
 	}
 }
