@@ -16,3 +16,6 @@ int main () {
 	pajak=gt*0.15;
 	gt=gt-pajak;
 	
+	cout<<"Gaji bersih pegawai : "<< gt<<endl;
+	
+}
