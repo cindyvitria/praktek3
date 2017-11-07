@@ -27,4 +27,8 @@ cin >> bidang;
 		cin >> t;
 		L = 0.5*a*t;
 		cout << "   Luas segitiga : "<< L<<endl;
+	}	
+	else{
+		cout<<"Maaf, Anda Salah Memilih"<<endl;
 	}
+}
